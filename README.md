@@ -1,2 +1,2 @@
 # UI-Designs
-Repositories contains all designs created by me.
+This repository contain all the designs created by me.
